@@ -7,9 +7,6 @@ The app utilizes APIs from GNews API's to fetch the latest news and present it i
 
 - Fetches news from multiple sources
 - Categorized news sections
-- Search functionality
-- Bookmark articles
-- Share articles with friends
 
 ## Screenshots
 
